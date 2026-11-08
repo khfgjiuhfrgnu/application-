@@ -1,0 +1,6 @@
+{
+  "name": "KHALED AI",
+  "description": "Multimodal AI assistant for intelligent chat, image generation, video creation, and speech studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
